@@ -5,7 +5,6 @@ This project is an **AI-powered Snake Game** built using **Python, PyTorch, and 
 ## 🚀 Features
 - 🧠 **Deep Q-Learning Agent** for smart decision-making.
 - 🎮 **PyGame-based UI** for real-time game visualization.
-- 📈 **Performance tracking** with graphical results.
 - 🔄 **Model saving/loading** for continuous training.
 
 ## 📂 Project Structure
