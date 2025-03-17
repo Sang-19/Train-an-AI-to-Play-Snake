@@ -45,14 +45,9 @@ The AI uses a **Deep Q-Network (DQN)** with the following steps:
 3. **Reward System**: The AI gets rewarded for eating food and penalized for dying.
 4. **Experience Replay**: Uses past experiences to improve decision-making.
 
-## 🎯 Future Improvements
-✅ Train with **Convolutional Neural Networks (CNNs)** for image-based learning.
-✅ Implement **Evolutionary Algorithms** for better optimization.
-✅ Add **Multiplayer Mode** or **Advanced Graphics**.
 
-## 📜 License
-This project is open-source under the **MIT License**.
+
 
 ---
-💡 **Made with Python & AI for fun and learning!** 🚀
+💡 **Made with Python & AI for fun and learning by watching tutorials!** 🚀
 
