@@ -13,7 +13,6 @@ This project is an **AI-powered Snake Game** built using **Python, PyTorch, and 
 ├── game.py         # Implements the Snake game mechanics using PyGame
 ├── agent.py        # AI Agent that trains using Deep Q-Learning
 ├── helper.py       # Utility functions (e.g., plotting results)
-├── train.py        # Main script to train the AI
 ├── model/          # Folder where trained models are saved
 ├── README.md       # Project documentation
 ```
