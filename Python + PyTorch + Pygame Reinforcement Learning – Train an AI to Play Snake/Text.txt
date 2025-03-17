@@ -1,6 +1,4 @@
-Project Number - 983. Reinforcement Learning-Based Game Playing Agent 
 
-------------------------------------------------------------------------
 Theory -
 ------------------------------------------------------------------------
 Reinforcement Learning - Teaching  a software agent how to behave in an 
