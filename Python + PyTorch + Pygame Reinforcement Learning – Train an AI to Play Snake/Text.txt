@@ -1,0 +1,15 @@
+Project Number - 983. Reinforcement Learning-Based Game Playing Agent 
+
+------------------------------------------------------------------------
+Theory -
+------------------------------------------------------------------------
+Reinforcement Learning - Teaching  a software agent how to behave in an 
+environment by telling it how good it's doing
+(maximizing the notion of the cumulative reward)
+
+
+Deep Q Learning - 
+tHIS APPROACH EXTENDS Reinforcement  Learning by using a Deep neural network to predict
+the actions.
+
+Linear QNet
