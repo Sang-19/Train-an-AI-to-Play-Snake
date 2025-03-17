@@ -1,0 +1,4 @@
+torch==2.2.0          # PyTorch for deep learning
+pygame==2.6.1         # Pygame for rendering the snake game
+numpy==1.26.2         # Numpy for numerical computations
+matplotlib==3.8.2     # Matplotlib for plotting training progress
